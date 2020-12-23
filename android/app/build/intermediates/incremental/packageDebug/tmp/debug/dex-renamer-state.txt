@@ -1,4 +1,0 @@
-#Wed Dec 23 09:06:51 IST 2020
-base.0=/Users/apple/Desktop/a107a8a0432f9f4d1d1c/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
